@@ -8,7 +8,7 @@
 
 3
 00:11:44,000 --> 00:11:58,640
-原视频来源: https://youtu.be/UebSfjmQNvs?si=vzMYc3S8l1S_HyKK; 采用视频及字幕来源: https://www.bilibili.com/video/BV1Aw4m1i7Zy; 完整的工程文件在 https://github.com/xaxkrt/ehw (需要访问凭据)
+原视频来源: https://youtu.be/UebSfjmQNvs?si=vzMYc3S8l1S_HyKK; 采用视频及字幕来源: https://www.bilibili.com/video/BV1Aw4m1i7Zy; 完整的工程文件在 https://github.com/xaxkrt/ehw
 
 4
 00:11:44,480 --> 00:11:58,640
